@@ -1,66 +1,42 @@
-<h1 align="center">Hey, I'm Armin Hamidinasab 👋</h1>
+# Armin Hamidinasab
 
-<p align="center">
-  <strong>Cybersecurity Specialist</strong> @ Borna Network Managers<br>
-  Blue Team by day · Red Team by night<br>
-  Tehran, Iran → Aiming for Germany 🇩🇪
-</p>
+**Cybersecurity Specialist | Blue Team | Web Security**
 
----
+Cybersecurity professional with hands-on experience in enterprise and financial environments, focusing on endpoint security, DLP, network security, incident response, and vulnerability assessment.
 
-### 👨‍💻 About Me
+Currently expanding my offensive security skills, with a focus on web application security and penetration testing.
 
-- 🛡️ Working as a **Cybersecurity Specialist** focused on defensive security
-- 🔍 Actively learning **Web Application Penetration Testing** (PortSwigger + write-ups)
-- 🎯 Long-term goal: Move to Germany, complete a Master's in Cybersecurity, and work in enterprise environments
-- 🛠️ Prefer a hybrid path: Blue Team foundation + Offensive skills (pentest / bug bounty)
-- 🏋️ Gym almost every day + occasional running
-- 🎮 Gamer & monthly podcast host (yes, I dress as a wizard)
+## Areas of Focus
 
----
+* Defensive Security & Incident Response
+* Endpoint Security & DLP
+* Network & Infrastructure Security
+* Web Application Security
+* Penetration Testing
+* Vulnerability Assessment
 
-### 🛠️ Tech & Tools I'm Working With
+## Tools & Technologies
 
-**Defensive / Blue Team**
-- Security monitoring, incident response concepts, network security
+**Security:** ESET, Kaspersky, Safetica, Zecurion, Fortinet, Sangfor
+**Offensive Security:** Burp Suite, Nmap, Dirsearch, Kali Linux, PortSwigger
+**Infrastructure:** Windows Server, Linux, Git
 
-**Offensive / Learning**
-- Burp Suite
-- Kali Linux
-- Web vulnerabilities (OWASP Top 10)
-- PortSwigger Web Security Academy
+## Current Work
 
-**General**
-- Linux (still improving)
-- Git & GitHub
-- Writing detailed technical write-ups
+* Web application security labs and penetration testing
+* PortSwigger Web Security Academy
+* Security research and technical write-ups
+* Practical cybersecurity projects
 
----
+## Experience
 
-### 🚀 Current Focus
+Cybersecurity Specialist with experience supporting enterprise and financial environments, including security infrastructure covering **18,000+ endpoints**.
 
-- Improving web penetration testing skills through consistent practice
-- Writing high-quality write-ups of labs and findings
-- Building a stronger public portfolio on GitHub
-- Preparing for future opportunities in Germany / Europe
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/armin-hamidinasab-348a60263/)
+* Email: `arminindeutschland@gmail.com`
 
 ---
 
-### 📫 Connect with me
-
-- 📧 Email: `arminindeutschland@gmail.com`or `arminhamid79@gmail.com`
-- 💼 LinkedIn: 'https://www.linkedin.com/in/armin-hamidinasab-348a60263/'
-
----
-
-### 📊 GitHub Stats
-
-![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armin-hamidi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armin-hamidi&layout=compact&theme=radical)
-
----
-
-<p align="center">
-  <i>“Blue team by day, red team by night — always learning.”</i>
-</p>
+> Blue Team foundation. Offensive security mindset. Continuous learning.
