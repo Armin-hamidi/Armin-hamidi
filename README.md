@@ -48,9 +48,8 @@
 
 ### 📫 Connect with me
 
-- 📧 Email: `arminindeutschland@gmail.com`
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 🐦 X / Twitter: *(add if you have one)*
+- 📧 Email: `arminindeutschland@gmail.com`or `arminhamid79@gmail.com`
+- 💼 LinkedIn: 'https://www.linkedin.com/in/armin-hamidinasab-348a60263/'
 
 ---
 
