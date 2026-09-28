@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Cybersecurity Specialist</strong> @ Borna Network Managers<br>
-  Blue Team by day · Red Team / Bug Bounty by night<br>
+  Blue Team by day · Red Team by night<br>
   Tehran, Iran → Aiming for Germany 🇩🇪
 </p>
 
