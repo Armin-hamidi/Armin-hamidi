@@ -31,5 +31,5 @@
 
 
 <p align="center">
-  <i>“Blue team by day, red team by night — always learning.”</i>
+  <i>“ always learning ”</i>
 </p>
