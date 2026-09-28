@@ -35,7 +35,7 @@ Cybersecurity Specialist with experience supporting enterprise and financial env
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/armin-hamidinasab-348a60263/)
-* Email: `arminindeutschland@gmail.com`
+* Email: `arminindeutschland@gmail.com` or `arminhamid79@gmail.com`
 
 ---
 
