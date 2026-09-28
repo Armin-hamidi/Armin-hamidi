@@ -1,42 +1,57 @@
 # Armin Hamidinasab
 
-**Cybersecurity Specialist | Blue Team | Web Security**
+### Cybersecurity Specialist · Blue Team · Web Security
 
-Cybersecurity professional with hands-on experience in enterprise and financial environments, focusing on endpoint security, DLP, network security, incident response, and vulnerability assessment.
+Cybersecurity professional with hands-on experience in **enterprise and financial environments**, specializing in endpoint security, DLP, network security, incident response, and vulnerability assessment.
 
-Currently expanding my offensive security skills, with a focus on web application security and penetration testing.
-
-## Areas of Focus
-
-* Defensive Security & Incident Response
-* Endpoint Security & DLP
-* Network & Infrastructure Security
-* Web Application Security
-* Penetration Testing
-* Vulnerability Assessment
-
-## Tools & Technologies
-
-**Security:** ESET, Kaspersky, Safetica, Zecurion, Fortinet, Sangfor
-**Offensive Security:** Burp Suite, Nmap, Dirsearch, Kali Linux, PortSwigger
-**Infrastructure:** Windows Server, Linux, Git
-
-## Current Work
-
-* Web application security labs and penetration testing
-* PortSwigger Web Security Academy
-* Security research and technical write-ups
-* Practical cybersecurity projects
-
-## Experience
-
-Cybersecurity Specialist with experience supporting enterprise and financial environments, including security infrastructure covering **18,000+ endpoints**.
-
-## Links
-
-* [LinkedIn](https://www.linkedin.com/in/armin-hamidinasab-348a60263/)
-* Email: `arminindeutschland@gmail.com` or `arminhamid79@gmail.com`
+Currently expanding into **offensive security**, with a focus on web application security and penetration testing.
 
 ---
 
-> Blue Team foundation. Offensive security mindset. Continuous learning.
+### Focus
+
+`Defensive Security` · `Incident Response` · `Endpoint Security`
+`DLP` · `Network Security` · `Web Security` · `Penetration Testing`
+
+### Technical Stack
+
+**Security**
+ESET · Kaspersky · Safetica · Zecurion · Fortinet · Sangfor
+
+**Offensive Security**
+Burp Suite · Nmap · Dirsearch · Kali Linux · PortSwigger · OWASP
+
+**Infrastructure**
+Windows Server · Linux · Git
+
+---
+
+### What I'm Building
+
+This repository documents my ongoing work in cybersecurity:
+
+* Web security labs and penetration testing
+* Technical write-ups and security research
+* Practical security projects
+* Notes and experiments from my learning
+
+My goal is to combine a strong **Blue Team foundation** with practical **offensive security skills**.
+
+---
+
+### Experience
+
+**Cybersecurity Specialist**
+Borna Network Managers
+
+Hands-on experience across enterprise and financial environments, supporting security infrastructure covering **18,000+ endpoints**.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/armin-hamidinasab-348a60263/) · `arminindeutschland@gmail.com` `arminhamid79@gmail.com`
+
+---
+
+<sub>Blue Team foundation · Offensive security mindset · Continuous learning</sub>
