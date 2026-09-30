@@ -1,35 +1,30 @@
-<h1 align="center">Hey, I'm Armin👋</h1>
+<h1 align="center">Hey, I'm Armin 👋</h1>
 
 <p align="center">
   <strong>Cybersecurity Specialist</strong> @ Borna Network Managers<br>
-  Blue Team by day · Red Team by night<br>
- 
+  Blue Team by day · Red Team by night
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🛡️ Working as a **Cybersecurity Specialist** focused on defensive security
-- 🔍 Actively learning **Web Application Penetration Testing** (PortSwigger + write-ups)
-- 🎮 Gamer & I dress as a wizard sometimes :)
+* 🛡️ Cybersecurity Specialist focused on **defensive security**
+* 🔍 Learning **Web Application Security & Penetration Testing**
+* 🚩 Practicing with **CTFs, PortSwigger & OverTheWire**
+* 📝 Sharing my **security write-ups** and learning journey
+* 🎮 Gamer & occasional wizard 🧙
 
-### 🛠️ Tech & Tools I'm Working With
+### 🛠️ Currently Learning
 
-**Defensive / Blue Team**
-- Security monitoring, incident response concepts, network security
+**Burp Suite · Web Security · CTFs · Penetration Testing**
 
-**Offensive / Learning**
-- Burp Suite
-- PortSwigger Web Security Academy
-- Writing detailed technical write-ups
+### 📫 Connect
 
-
-### 📫 Connect with me
-- 📧 Email: `arminindeutschland@gmail.com` or `arminhamid79@gmail.com`
-- 💼 LinkedIn: 'https://www.linkedin.com/in/armin-hamidinasab-348a60263/'
-
+* 💼 <a href="https://www.linkedin.com/in/armin-hamidinasab-348a60263/">LinkedIn</a>
+* 📧 <code>[arminindeutschland@gmail.com](mailto:arminindeutschland@gmail.com)</code>
+* 📧 <code>[arminhamid79@gmail.com](mailto:arminhamid79@gmail.com)</code>
 
 <p align="center">
-  <i>“ always learning ”</i>
+  <i>Always learning.</i>
 </p>
