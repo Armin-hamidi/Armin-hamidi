@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Armin 👋 </h1>
 
 <p align="center">
-  <strong>Cybersecurity Specialist</strong> @ Borna Network Managers<br>
+  <strong>Cybersecurity Specialist </strong> @ Borna Network Managers<br>
   Blue Team by day · Red Team by night
 </p>
 
