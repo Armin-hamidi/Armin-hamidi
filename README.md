@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 * 🛡️ Cybersecurity Specialist focused on **defensive security**
-* 🔍 Learning **Web Application Security & Penetration Testing**
+* 🔍 Learning **Web Application Security  & Penetration Testing**
 * 🚩 Practicing with **CTFs, PortSwigger & OverTheWire**
 * 📝 Sharing my **security write-ups** and learning journey
 * 🎮 Gamer & occasional wizard 🧙
